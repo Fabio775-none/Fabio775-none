@@ -7,7 +7,6 @@ Programador autodidata por hobby, com foco em engenharia reversa, desenvolviment
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="42" title="C#" alt="C#" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="42" title="C++" alt="C++" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42" title="Java" alt="Java" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" title="JavaScript" alt="JavaScript" />
