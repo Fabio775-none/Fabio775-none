@@ -16,8 +16,7 @@ Programador autodidata por hobby, com foco em engenharia reversa, desenvolviment
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png" width="42" title="Raylib" alt="Raylib" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" title="React" alt="React" />
 <img src="https://cdn.simpleicons.org/unity/FFFFFF" width="42" title="Unity" alt="Unity" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" width="42" title="p5.js" alt="p5.js" />
 </p>
 
 *Pesquisa, experimentação e desenvolvimento independente.*
-
-<sub>Ícone Raylib: Raysan51, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</sub>
