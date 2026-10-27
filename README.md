@@ -5,6 +5,6 @@ Programador autodidata, dedicado a projetos pessoais de engenharia reversa, dese
 ## Sobre mim
 
 - **Áreas de interesse:** Engenharia reversa, desenvolvimento desktop, web e jogos.
-- **Linguagens:** C, C++, C#, Java, JavaScript, Delphi e Visual Basic.
+- **Linguagens:** C, C++, C#, Java, JavaScript, Delphi e Visual Basic 6.
 - **Projetos:** Ferramentas de edição, modificações de jogos clássicos e aplicações independentes.
 - **Abordagem:** Pesquisa, experimentação e desenvolvimento por hobby.
