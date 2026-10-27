@@ -1,7 +1,7 @@
 
 # Sobre mim
 
-Autodidata programo por hobby, tenho foco em engenharia reversa, desenvolvimento de software desktop, Web e protótipos de jogos 2D/3D.
+Autodidata programo por hobby, tenho foco em engenharia reversa, desenvolvimento de software desktop, web e protótipos de jogos 2D/3D.
 
 **Tecnologias:**
 
