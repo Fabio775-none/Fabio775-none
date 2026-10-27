@@ -1,4 +1,4 @@
-# Desenvolvedor Independente
+# Oi, eu sou o Fabio 👋
 
 Programador autodidata, dedicado a projetos pessoais de engenharia reversa, desenvolvimento de software e protótipos de jogos.
 
