@@ -1,7 +1,7 @@
 
 # Sobre mim
 
-Programo por hobby, tenho foco em engenharia reversa de games, desenvolvimento de software desktop, web e protótipos de jogos 2D/3D.
+Programo por hobby, tenho foco em engenharia reversa de games antigos, desenvolvimento de software desktop, web e protótipos de jogos 2D/3D.
 
 **Tecnologias:**
 
